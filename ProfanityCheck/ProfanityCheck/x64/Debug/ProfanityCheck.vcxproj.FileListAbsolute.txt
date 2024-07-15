@@ -1,0 +1,3 @@
+C:\Users\Lex\source\repos\ProfanityCheck\ProfanityCheck\x64\Debug\ProfanityCheck.vcxproj.AssemblyReference.cache
+C:\Users\Lex\source\repos\ProfanityCheck\ProfanityCheck\x64\Debug\ProfanityCheck.MyForm.resources
+C:\Users\Lex\source\repos\ProfanityCheck\ProfanityCheck\x64\Debug\ProfanityCheck.vcxproj.GenerateResource.cache
